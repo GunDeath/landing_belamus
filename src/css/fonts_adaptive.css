@@ -1,0 +1,61 @@
+.block__title{
+    font-size: calc(20px + 5 * (100vw / 1375));
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 40px;
+}
+.sub__text{
+    font-size: calc(15px + 3 * (100vw / 1375));
+    color: #8c9294;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+.pump__info_text{
+    font-size: calc(14px + 5 * (100vw / 1375));
+    font-weight: 700;
+}
+.pump__sub_text, .pump__link{
+    font-size: calc(14px + 2 * (100vw / 1375));
+}
+.pump__sub_text{
+    color: #8c9294;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+.pump__link{
+    color: #2e6ff0;
+    font-weight: 600;
+}
+.wave__title_text{
+    font-size: calc(17px + 11 * (100vw / 1375));
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.wave__text_item{
+    font-size: calc(12px + 6 * (100vw / 1375));
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #fff;
+}
+.range__list_text{
+    font-size: calc(15px + 3 * (100vw / 1375));
+    color: #000;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+.footer__list_title{
+    font-size: calc(16px + 4 * (100vw / 1375));
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    font-weight: 700;
+}
+.footer__list_link,
+.footer__info_link{
+    font-size: calc(14px + 4 * (100vw / 1375));
+    margin: 0;
+    color: #fff;
+}
